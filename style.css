@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button:active {
+  background: olive;
+}
+
+button:focus {
+  background: olive;
+}
+
+.cart {
+  background-color: rgb(45, 164, 45);
+}
+
+#cart {
+  height: 60px;
+}
